@@ -12,7 +12,7 @@ const Header: React.FC = () => {
        <a href="/" className="logo">
          Logo
        </a>
-       <Navbar />
+       <Navbar>sample navbar</Navbar>
      </div>
      <Carousel>
        <div>
